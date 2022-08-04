@@ -23,7 +23,7 @@ while (my $line = <GENOMES_LIST>) {
 		$filename = "$filename.fna";
 		$genome .= '.fna';
 	    } else {
-		die "Can't find a file matching $filename";
+		warn "Can't find a file matching $filename";
 	    }
 	    
 	    $genome =~ s/\s+/_/g;
