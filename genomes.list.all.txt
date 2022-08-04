@@ -85,3 +85,12 @@ GCA_020880735.1_ASM2088073v1_genomic.fna	X. translucens ATCC 19319 T
 GCA_900018785.1_Xanthomonas_massiliensis_genomic.fna	       X. massiliensis SN8 T
 GCA_900476395.1_CPBF_424_genomic.fna			       X. euroxanthea CPBF 424 T
 GCA_905142475.1_LMG_31884_genomic.fna			       X. hydrangea LMG 31884 T
+
+
+### Some extra missing ones
+X._retroflexus.contig
+X._phaseoli_pv._phaseoli_NCPPB_3035.contig
+X._fragariae_LMG_25863.contig
+X._codiaei_CFBP4690.contig
+X._cissicola_LMG21719.contig
+X._cannabis_NCPPB_2877.contig
