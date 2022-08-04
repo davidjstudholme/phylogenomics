@@ -14,20 +14,13 @@ while (my $line = <GENOMES_LIST>) {
     unless ($line=~m/^\#/) {
 	if ($line =~ m/^(\S+)\s+(.*)/) {
 	    my ($filename, $genome) = ($1, $2);
-	    $filename =~ s/\.fna$|\.contig$//;
-
-	    if (-s "$filename.contig") {
-		$filename = "$filename.contig";
-		$genome .= '.contig';
-	    } elsif ( -s "$filename.fna") {
-		$filename = "$filename.fna";
-		$genome .= '.fna';
+	    if (-s "$filename") {
+		warn "$filename exists\n";
+		$genome =~ s/\s+/_/g;
+		$genomes_list{$filename} = $genome;
 	    } else {
-		warn "Can't find a file matching $filename";
-	    }
-	    
-	    $genome =~ s/\s+/_/g;
-	    $genomes_list{$filename} = $genome;
+		warn "Can't find a file $filename";
+	    }	    
 	}
     }
 }
@@ -35,7 +28,7 @@ close GENOMES_LIST;
 
 foreach my $filename (keys %genomes_list) {
     my $genome = $genomes_list{$filename};
-    my $cmd = "cp $filename \"$genome\"";
+    my $cmd = "ln -s $filename \"$genome.contig\"  && ln -s $filename \"$genome.fasta\"";
     warn "$cmd\n";
     system($cmd);
 }
