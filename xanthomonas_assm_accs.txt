@@ -70,12 +70,9 @@ GCA_020880735.1
 GCA_900018785.1
 GCA_900476395.1
 GCA_905142475.1
-
-
-### Some extra missing ones
-X._retroflexus.contig
-X._phaseoli_pv._phaseoli_NCPPB_3035.contig
-X._fragariae_LMG_25863.contig
-X._codiaei_CFBP4690.contig
-X._cissicola_LMG21719.contig
-X._cannabis_NCPPB_2877.contig
+GCA_900143175.1
+GCA_000774035.2
+GCA_000376745.1
+GCA_002939785.1
+GCA_002019225.1
+GCA_000802365.1
