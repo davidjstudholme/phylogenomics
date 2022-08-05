@@ -15,7 +15,7 @@ while (my $line = <GENOMES_LIST>) {
 	if ($line =~ m/^(\S+)\s+(.*)/) {
 	    my ($filename, $genome) = ($1, $2);
 	    if (-s "$filename") {
-		warn "$filename exists\n";
+		#warn "$filename exists\n";
 		$genome =~ s/\s+/_/g;
 		$genomes_list{$filename} = $genome;
 	    } else {
