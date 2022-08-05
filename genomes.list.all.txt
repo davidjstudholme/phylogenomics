@@ -88,9 +88,9 @@ GCA_905142475.1_LMG_31884_genomic.fna			       X. hydrangea LMG 31884 T
 
 
 ### Some extra missing ones
-X._retroflexus.contig
-X._phaseoli_pv._phaseoli_NCPPB_3035.contig
-X._fragariae_LMG_25863.contig
-X._codiaei_CFBP4690.contig
-X._cissicola_LMG21719.contig
-X._cannabis_NCPPB_2877.contig
+GCA_900143175.1_ASM90014317v1_genomic.fna X. retroflexus Sp953
+GCA_000774035.2_NCPPB3035v2_genomic.fna X. phaseoli pv. phaseoli NCPPB 3035
+GCA_000376745.1_ASM37674v1_genomic.fna  X. fragariae LMG 25863
+GCA_002939785.1_ASM293978v1_genomic.fna X. codiaei CFBP 4690
+GCA_002019225.1_ASM201922v1_genomic.fna X. cissicola LMG 21719 T
+GCA_000802365.1_NCPPB2877_E1.0_genomic.fna  X. cannabis NCPPB 2877 T
