@@ -97,13 +97,15 @@ GCA_000802365.1_NCPPB2877_E1.0_genomic.fna  X. cannabis NCPPB 2877 T
 
 
 Genome assembly GenBank accession
-GCA_020784125.1
-GCA_020783815.1
-GCA_020783675.1
-GCA_020783795.1
-GCA_020783765.1
-GCA_020783715.1
-GCA_020783725.1
-GCA_020783655.1
-GCA_020783755.1
-GCA_020784175.1
+GCA_020784125.1 X. campestris pv. esculenti	2190 Slc1
+GCA_020783815.1 X. campestris pv. zinniae	2439 Slc1
+GCA_020783675.1 X. dyei pv. eucalypti	2337 Slc2
+GCA_020783795.1 X. sp. 	1067	Slc3
+GCA_020783765.1 X. campestris pv. parthenii	3888 Slc4
+GCA_020783715.1 X. campestris pv. phormiicola	2983 Slc6
+GCA_020783725.1 X. campestris pv. nigromaculans	1935
+GCA_020783655.1 X. melonis	3434
+GCA_020783755.1 X. campestris pv. cannae	4345
+GCA_020784175.1 X. campestris pv. asclepiadis	4013
+
+
