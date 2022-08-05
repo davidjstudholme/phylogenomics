@@ -59,7 +59,7 @@ GCA_001401595.1_Xaa_LMG982_genomic.fna		X. axonopodis LMG 982 T
 #GCA_019201065.1_ASM1920106v1_genomic.fna	[X. campestris] pv. olitorii NCPPB 464
 
 GCA_001908725.1_ASM190872v1_genomic.fna		X. vesicatoria ATCC 35937 T
-GCA_000454545.1_20120625_genomic.fna		X. cassavae CFBP 4642 T
+#GCA_000454545.1_20120625_genomic.fna		X. cassavae CFBP 4642 T
 GCA_000772705.2_NCPPB2417v2_genomic.fna		X. vasicola NCPPB 2417 T
 GCA_001010415.1_ASM101041v1_genomic.fna		X. pisi DSM 18956 T
 GCA_001013475.1_ASM101347v1_genomic.fna		X. arboricola CFBP 2528 T
