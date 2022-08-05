@@ -1,30 +1,30 @@
 ### X. euvesicatoria
-GCA_001401555.1_Xeu_LMG27970_genomic.fna	X. euvesicatoria pv. euvesicatoria LMG 27970 T
-GCA_019201465.1_ASM1920146v1_genomic.fna  [X. campestris] pv. ionidii NCPPB 1334
-GCA_019201485.1_ASM1920148v1_genomic.fna  [X. campestris] pv. blepharidis NCPPB 1757
-GCA_019201305.1_ASM1920130v1_genomic.fna	[X. campestris] pv. coriandri NCPPB 1758
-GCA_019201445.1_ASM1920144v1_genomic.fna	[X. campestris] pv. spermacoces NCPPB 1760
-GCA_019201345.1_ASM1920134v1_genomic.fna	[X. campestris] pv. vernoniae NCPPB 1787
-GCA_019201425.1_ASM1920142v1_genomic.fna	[X. campestris] pv. euphorbiae NCPPB 1828
-GCA_019201405.1_ASM1920140v1_genomic.fna	[X. campestris] pv. heliotropii NCPPB 2057
-GCA_019201375.1_ASM1920137v1_genomic.fna	[X. campestris] pv. fici NCPPB 2372
-GCA_019201365.1_ASM1920136v1_genomic.fna	[X. campestris] pv. carissae NCPPB 2373
-GCA_019201245.1_ASM1920124v1_genomic.fna	[X. campestris] pv. convolvuli NCPPB 2498
-GCA_019201325.1_ASM1920132v1_genomic.fna	[X. campestris] pv. daturae NCPPB 2932
-GCA_019201285.1_ASM1920128v1_genomic.fna	[X. campestris] pv. paulliniae NCPPB 3079
-GCA_019201105.1_ASM1920110v1_genomic.fna	[X. campestris] pv. obscurae NCPPB 3759
-GCA_019201145.1_ASM1920114v1_genomic.fna	[X. campestris] pv. mirabilis NCPPB 4348
-GCA_019201165.1_ASM1920116v1_genomic.fna	[X. campestris] pv. pennamericanum NCPPB 4349
-GCA_019201265.1_ASM1920126v1_genomic.fna	[X. campestris] pv. viegasii NCPPB 4351
-GCA_019201205.1_ASM1920120v1_genomic.fna	[X. campestris] pv. zingibericola NCPPB 4352
-GCA_019201225.1_ASM1920122v1_genomic.fna	[X. campestris] pv. clerodendri NCPPB 575
-GCA_019201185.1_ASM1920118v1_genomic.fna	[X. campestris] pv. lawsoniae NCPPB 579
-GCA_019201115.1_ASM1920111v1_genomic.fna	[X. campestris] pv. uppalii NCPPB 586
+#GCA_001401555.1_Xeu_LMG27970_genomic.fna	X. euvesicatoria pv. euvesicatoria LMG 27970 T
+#GCA_019201465.1_ASM1920146v1_genomic.fna  [X. campestris] pv. ionidii NCPPB 1334
+#GCA_019201485.1_ASM1920148v1_genomic.fna  [X. campestris] pv. blepharidis NCPPB 1757
+#GCA_019201305.1_ASM1920130v1_genomic.fna	[X. campestris] pv. coriandri NCPPB 1758
+#GCA_019201445.1_ASM1920144v1_genomic.fna	[X. campestris] pv. spermacoces NCPPB 1760
+#GCA_019201345.1_ASM1920134v1_genomic.fna	[X. campestris] pv. vernoniae NCPPB 1787
+#GCA_019201425.1_ASM1920142v1_genomic.fna	[X. campestris] pv. euphorbiae NCPPB 1828
+#GCA_019201405.1_ASM1920140v1_genomic.fna	[X. campestris] pv. heliotropii NCPPB 2057
+#GCA_019201375.1_ASM1920137v1_genomic.fna	[X. campestris] pv. fici NCPPB 2372
+#GCA_019201365.1_ASM1920136v1_genomic.fna	[X. campestris] pv. carissae NCPPB 2373
+#GCA_019201245.1_ASM1920124v1_genomic.fna	[X. campestris] pv. convolvuli NCPPB 2498
+#GCA_019201325.1_ASM1920132v1_genomic.fna	[X. campestris] pv. daturae NCPPB 2932
+#GCA_019201285.1_ASM1920128v1_genomic.fna	[X. campestris] pv. paulliniae NCPPB 3079
+#GCA_019201105.1_ASM1920110v1_genomic.fna	[X. campestris] pv. obscurae NCPPB 3759
+#GCA_019201145.1_ASM1920114v1_genomic.fna	[X. campestris] pv. mirabilis NCPPB 4348
+#GCA_019201165.1_ASM1920116v1_genomic.fna	[X. campestris] pv. pennamericanum NCPPB 4349
+#GCA_019201265.1_ASM1920126v1_genomic.fna	[X. campestris] pv. viegasii NCPPB 4351
+#GCA_019201205.1_ASM1920120v1_genomic.fna	[X. campestris] pv. zingibericola NCPPB 4352
+#GCA_019201225.1_ASM1920122v1_genomic.fna	[X. campestris] pv. clerodendri NCPPB 575
+#GCA_019201185.1_ASM1920118v1_genomic.fna	[X. campestris] pv. lawsoniae NCPPB 579
+#GCA_019201115.1_ASM1920111v1_genomic.fna	[X. campestris] pv. uppalii NCPPB 586
 
-GCA_000730305.1_G1_genomic.fna			X. euvesicatoria pv. allii CFBP6369
-GCA_017724035.1_ASM1772403v1_genomic.fna	X. euvesicatoria pv. alfalfae CFBP3836
-GCA_019192985.1_ASM1919298v1_genomic.fna	X. euvesicatoria pv. physalidis NCPPB1756
-GCA_019193005.1_ASM1919300v1_genomic.fna	X. euvesicatoria pv. alangii NCPPB 1336
+#GCA_000730305.1_G1_genomic.fna			X. euvesicatoria pv. allii CFBP6369
+#GCA_017724035.1_ASM1772403v1_genomic.fna	X. euvesicatoria pv. alfalfae CFBP3836
+#GCA_019192985.1_ASM1919298v1_genomic.fna	X. euvesicatoria pv. physalidis NCPPB1756
+#GCA_019193005.1_ASM1919300v1_genomic.fna	X. euvesicatoria pv. alangii NCPPB 1336
 
 ### X. campestris
 GCA_000007145.1_ASM714v1_genomic.fna		X. campestris pv. campestris ATCC 33913 T
@@ -94,3 +94,16 @@ GCA_000376745.1_ASM37674v1_genomic.fna  X. fragariae LMG 25863
 GCA_002939785.1_ASM293978v1_genomic.fna X. codiaei CFBP 4690
 GCA_002019225.1_ASM201922v1_genomic.fna X. cissicola LMG 21719 T
 GCA_000802365.1_NCPPB2877_E1.0_genomic.fna  X. cannabis NCPPB 2877 T
+
+
+Genome assembly GenBank accession
+GCA_020784125.1
+GCA_020783815.1
+GCA_020783675.1
+GCA_020783795.1
+GCA_020783765.1
+GCA_020783715.1
+GCA_020783725.1
+GCA_020783655.1
+GCA_020783755.1
+GCA_020784175.1
