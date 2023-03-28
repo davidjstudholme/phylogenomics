@@ -1,20 +1,10 @@
-### X. euvesicatoria
+### Species type strains
 GCA_001401555.1_Xeu_LMG27970_genomic.fna	X. euvesicatoria pv. euvesicatoria LMG 27970 T
-
-### X. campestris
 GCA_000007145.1_ASM714v1_genomic.fna		X. campestris pv. campestris ATCC 33913 T
-
-### X. citri
 GCA_002018575.1_ASM201857v1_genomic.fna		X. citri pv. citri LMG 9322 T
-
-### X. phaeolicola
 GCA_022749655.1_ASM2274965v1_genomic.fna  X. phaseoli ATCC 49119 T
-
 GCA_001908725.1_ASM190872v1_genomic.fna		X. vesicatoria ATCC 35937 T
-
-#GCA_000454545.1_20120625_genomic.fna		X. cassavae CFBP 4642 T
-
-
+GCA_000454545.1_20120625_genomic.fna		X. cassavae CFBP 4642 T
 GCA_000772705.2_NCPPB2417v2_genomic.fna		X. vasicola NCPPB 2417 T
 GCA_001010415.1_ASM101041v1_genomic.fna		X. pisi DSM 18956 T
 GCA_001013475.1_ASM101347v1_genomic.fna		X. arboricola CFBP 2528 T
@@ -38,28 +28,27 @@ GCA_014236795.1_ASM1423679v1_genomic.fna	X. theicola CFBP 4691 T
 GCA_020783655.1_ASM2078365v1_genomic.fna	X. melonis NCPPB 3434 T
 GCA_020880735.1_ASM2088073v1_genomic.fna	X. translucens ATCC 19319 T
 GCA_900018785.1_Xanthomonas_massiliensis_genomic.fna	       X. massiliensis SN8 T
-GCA_900476395.1_CPBF_424_genomic.fna  X. euroxanthea CPBF 424 T
-GCA_905142475.1_LMG_31884_genomic.fna X. hydrangea LMG 31884 T
-
-### Some extra missing ones
 GCA_900143175.1_ASM90014317v1_genomic.fna X. retroflexus Sp953
 GCA_000376745.1_ASM37674v1_genomic.fna  X. fragariae LMG 25863
 GCA_002939785.1_ASM293978v1_genomic.fna X. codiaei CFBP 4690
 GCA_002019225.1_ASM201922v1_genomic.fna X. cissicola LMG 21719 T
 GCA_000802365.1_NCPPB2877_E1.0_genomic.fna  X. cannabis NCPPB 2877 T
-
 GCA_020784125.1_ASM2078412v1_genomic.fna X. campestris pv. esculenti	2190 Slc1
 GCA_020783815.1_ASM2078381v1_genomic.fna X. campestris pv. zinniae	2439 Slc1
 GCA_020783675.1_ASM2078367v1_genomic.fna  X. dyei pv. eucalypti	2337 Slc2
 GCA_020783795.1_ASM2078379v1_genomic.fna  X. sp. 	1067	Slc3
 GCA_020783765.1_ASM2078376v1_genomic.fna X. campestris pv. parthenii	3888 Slc4
 GCA_020783715.1_ASM2078371v1_genomic.fna X. campestris pv. phormiicola	2983 Slc6
-GCA_020783725.1_ASM2078372v1_genomic.fna X. campestris pv. nigromaculans	1935
 GCA_020783655.1_ASM2078365v1_genomic.fna X. melonis	3434
 GCA_020783755.1_ASM2078375v1_genomic.fna X. campestris pv. cannae	4345
+
+### X. euroxanthea group
+GCA_900476395.1_CPBF_424_genomic.fna  X. euroxanthea CPBF 424 T
 GCA_020784175.1_ASM2078417v1_genomic.fna X. campestris pv. asclepiadis	4013
 
-### X. hortorum
-GCA_000192065.2_ASM19206v1_genomic.fna  "X. gardneri" ATCC 19865 T
+### X. hortorum group
+GCA_000192065.2_ASM19206v1_genomic.fna  X. gardneri ATCC 19865 T
 GCA_021352995.1_ASM2135299v1_genomic.fna  X. hortorum pv. cynarae CFBP 4188
 GCA_003064105.1_ASM306410v1_genomic.fna X. hortorum pv. hederae  NCPPB 939
+GCA_905142475.1_LMG_31884_genomic.fna X. hydrangea LMG 31884 T
+GCA_020783725.1_ASM2078372v1_genomic.fna X. campestris pv. nigromaculans	1935
