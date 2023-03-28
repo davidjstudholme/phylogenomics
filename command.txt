@@ -1,3 +1,0 @@
-(fastani_env) djs217@studholme-climb-1:~/ani_euvesicatoria_project$ fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-fastANI.short.out -t 6 --visualize --matrix
-
-
