@@ -1,65 +1,20 @@
 ### X. euvesicatoria
 GCA_001401555.1_Xeu_LMG27970_genomic.fna	X. euvesicatoria pv. euvesicatoria LMG 27970 T
-#GCA_019201465.1_ASM1920146v1_genomic.fna  [X. campestris] pv. ionidii NCPPB 1334
-#GCA_019201485.1_ASM1920148v1_genomic.fna  [X. campestris] pv. blepharidis NCPPB 1757
-#GCA_019201305.1_ASM1920130v1_genomic.fna	[X. campestris] pv. coriandri NCPPB 1758
-#GCA_019201445.1_ASM1920144v1_genomic.fna	[X. campestris] pv. spermacoces NCPPB 1760
-#GCA_019201345.1_ASM1920134v1_genomic.fna	[X. campestris] pv. vernoniae NCPPB 1787
-#GCA_019201425.1_ASM1920142v1_genomic.fna	[X. campestris] pv. euphorbiae NCPPB 1828
-#GCA_019201405.1_ASM1920140v1_genomic.fna	[X. campestris] pv. heliotropii NCPPB 2057
-#GCA_019201375.1_ASM1920137v1_genomic.fna	[X. campestris] pv. fici NCPPB 2372
-#GCA_019201365.1_ASM1920136v1_genomic.fna	[X. campestris] pv. carissae NCPPB 2373
-#GCA_019201245.1_ASM1920124v1_genomic.fna	[X. campestris] pv. convolvuli NCPPB 2498
-#GCA_019201325.1_ASM1920132v1_genomic.fna	[X. campestris] pv. daturae NCPPB 2932
-#GCA_019201285.1_ASM1920128v1_genomic.fna	[X. campestris] pv. paulliniae NCPPB 3079
-#GCA_019201105.1_ASM1920110v1_genomic.fna	[X. campestris] pv. obscurae NCPPB 3759
-#GCA_019201145.1_ASM1920114v1_genomic.fna	[X. campestris] pv. mirabilis NCPPB 4348
-#GCA_019201165.1_ASM1920116v1_genomic.fna	[X. campestris] pv. pennamericanum NCPPB 4349
-#GCA_019201265.1_ASM1920126v1_genomic.fna	[X. campestris] pv. viegasii NCPPB 4351
-#GCA_019201205.1_ASM1920120v1_genomic.fna	[X. campestris] pv. zingibericola NCPPB 4352
-#GCA_019201225.1_ASM1920122v1_genomic.fna	[X. campestris] pv. clerodendri NCPPB 575
-#GCA_019201185.1_ASM1920118v1_genomic.fna	[X. campestris] pv. lawsoniae NCPPB 579
-#GCA_019201115.1_ASM1920111v1_genomic.fna	[X. campestris] pv. uppalii NCPPB 586
-
-#GCA_000730305.1_G1_genomic.fna			X. euvesicatoria pv. allii CFBP6369
-#GCA_017724035.1_ASM1772403v1_genomic.fna	X. euvesicatoria pv. alfalfae CFBP3836
-#GCA_019192985.1_ASM1919298v1_genomic.fna	X. euvesicatoria pv. physalidis NCPPB1756
-#GCA_019193005.1_ASM1919300v1_genomic.fna	X. euvesicatoria pv. alangii NCPPB 1336
 
 ### X. campestris
 GCA_000007145.1_ASM714v1_genomic.fna		X. campestris pv. campestris ATCC 33913 T
-#GCA_020813015.1_ASM2081301v1_genomic.fna  X. campestris pv. papavericola NCPPB 2970
-#GCA_020813005.1_ASM2081300v1_genomic.fna  X. campestris pv. plantaginis NCPPB 1061
-#GCA_020813075.1_ASM2081307v1_genomic.fna  X. campestris pv. raphani NCPPB 1946
-#GCA_020813295.1_ASM2081329v1_genomic.fna  X. campestris pv. incanae NCPPB 937
-#GCA_020813315.1_ASM2081331v1_genomic.fna  X. campestris pv. barbareae NCPPB 983
-#GCA_020731405.1_ASM2073140v1_genomic.fna  X. campestris pv. armoraciae NCPPB 347
 
 ### X. citri
 GCA_002018575.1_ASM201857v1_genomic.fna		X. citri pv. citri LMG 9322 T
-#GCA_019201545.1_ASM1920154v1_genomic.fna	[X. campestris] pv. merremiae NCPPB 3114
-#GCA_019201525.1_ASM1920152v1_genomic.fna	[X. campestris] pv. trichodesmae NCPPB 585
-
-#GCA_000263335.1_XALMG941_genomic.fna		X. citri pv. mangiferaeindicae LMG 941
-#GCA_000495275.1_Xag-CFBP2526-G1_genomic.fna	X. citri pv. glycines CFBP 2526
-#GCA_000723725.1_XVIT_genomic.fna		X. citri pv. viticola
-#GCA_002688625.1_ASM268862v1_genomic.fna		X. citri pv. anacardii CFBP 2913
-#GCA_003064125.1_ASM306412v1_genomic.fna		X. citri pv. malvacearum WHRI 5232
-#GCA_006228545.1_ASM622854v1_genomic.fna		X. citri pv. punicae LMG 859
-#GCA_020011215.1_ASM2001121v1_genomic.fna	X. citri pv. thirumalacharii LMG872
-#GCA_020011255.1_ASM2001125v1_genomic.fna	X. citri pv. sesbaniae LMG867
 
 ### X. phaeolicola
-GCA_000774035.2_NCPPB3035v2_genomic.fna		X. phaseoli NCPPB 3035
-
-GCA_001401595.1_Xaa_LMG982_genomic.fna		X. axonopodis LMG 982 T
-#GCA_019201075.1_ASM1920107v1_genomic.fna	[X. axonopodis] pv. passiflorae NCPPB 2346
-
-### Anomolous
-#GCA_019201065.1_ASM1920106v1_genomic.fna	[X. campestris] pv. olitorii NCPPB 464
+GCA_022749655.1_ASM2274965v1_genomic.fna  X. phaseoli ATCC 49119 T
 
 GCA_001908725.1_ASM190872v1_genomic.fna		X. vesicatoria ATCC 35937 T
+
 #GCA_000454545.1_20120625_genomic.fna		X. cassavae CFBP 4642 T
+
+
 GCA_000772705.2_NCPPB2417v2_genomic.fna		X. vasicola NCPPB 2417 T
 GCA_001010415.1_ASM101041v1_genomic.fna		X. pisi DSM 18956 T
 GCA_001013475.1_ASM101347v1_genomic.fna		X. arboricola CFBP 2528 T
