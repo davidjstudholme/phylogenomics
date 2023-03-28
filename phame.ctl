@@ -2,7 +2,7 @@
       workdir = ./workdir # directory where contigs/reads files are located and output is stored
 
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
-      reffile = X._campestris_pv._campestris_ATCC_33913_T.fasta  # reference filename 
+      reffile = X._campestris_pv._campestris_ATCC_33913_T_PT.fasta  # reference filename 
 
       project = test  # main alignment file name
 
