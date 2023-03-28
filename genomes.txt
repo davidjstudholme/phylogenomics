@@ -29,7 +29,6 @@ GCA_020783655.1_ASM2078365v1_genomic.fna	X. melonis NCPPB 3434 T
 GCA_020880735.1_ASM2088073v1_genomic.fna	X. translucens ATCC 19319 T
 GCA_900018785.1_Xanthomonas_massiliensis_genomic.fna	       X. massiliensis SN8 T
 GCA_900143175.1_ASM90014317v1_genomic.fna X. retroflexus Sp953
-GCA_000376745.1_ASM37674v1_genomic.fna  X. fragariae LMG 25863
 GCA_002939785.1_ASM293978v1_genomic.fna X. codiaei CFBP 4690
 GCA_002019225.1_ASM201922v1_genomic.fna X. cissicola LMG 21719 T
 GCA_000802365.1_NCPPB2877_E1.0_genomic.fna  X. cannabis NCPPB 2877 T
@@ -41,10 +40,15 @@ GCA_020783765.1_ASM2078376v1_genomic.fna X. campestris pv. parthenii	3888 Slc4
 GCA_020783715.1_ASM2078371v1_genomic.fna X. campestris pv. phormiicola	2983 Slc6
 GCA_020783655.1_ASM2078365v1_genomic.fna X. melonis	3434
 GCA_020783755.1_ASM2078375v1_genomic.fna X. campestris pv. cannae	4345
+GCA_022669045.1_ASM2266904v1_genomic.fna        X. indica PPL560 T
+GCA_017163705.1_ASM1716370v1_genomic.fna        X. bonasiae FX4 T
+GCA_014836395.1_ASM1483639v1_genomic.fna        X. surreyensis Sa3BUA13 T
+GCA_900380235.1_PD_885_genomic.fna              X. fragariae PD 885 T
 
 ### X. euroxanthea group
 GCA_900476395.1_CPBF_424_genomic.fna  X. euroxanthea CPBF 424 T
 GCA_020784175.1_ASM2078417v1_genomic.fna X. campestris pv. asclepiadis	4013
+
 
 ### X. hortorum group
 GCA_000192065.2_ASM19206v1_genomic.fna  X. gardneri ATCC 19865 T
