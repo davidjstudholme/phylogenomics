@@ -53,7 +53,7 @@ phame ./phame.ctl
 
 screen
 conda activate fastani_env
-fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-fastANI.short.out -t 6 --visualize --matrix
+fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-all.fastANI.out -t 6 --visualize --matrix
 
 
 
