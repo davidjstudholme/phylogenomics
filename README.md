@@ -6,7 +6,7 @@ This repository contains supporting files for the phylogenetic tree presented in
 
 ```
 ### Get this repo
-git clone https://github.com/davidjstudholme/phylogenomics-Xanthomonas-2.git
+git clone https://github.com/davidjstudholme/phylogenomics-Xanthomonas-1.git
 
 ### Download NCBI Datasets command line tools
 curl -o datasets 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/v1/linux-amd64/datasets'
@@ -23,7 +23,7 @@ ln -s ../datasets .
 unzip xanthomonas_genome_assemblies.zip
 ln -s ncbi_dataset/data/GCA_*/GCA_*.fna .
 ls *.fna
-perl ../phylogenomics-Xanthomonas-2/rename_files.pl  ../phylogenomics-Xanthomonas-2/genomes.txt
+perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomonas-1/genomes.txt
 
 cd -
 
@@ -47,7 +47,7 @@ cd -
 
 screen
 conda activate phame_env
-cp phylogenomics-Xanthomonas-2/phame.fasttree.ctl .
+cp phylogenomics-Xanthomonas-1/phame.fasttree.ctl .
 phame ./phame.ctl
 
 ```
