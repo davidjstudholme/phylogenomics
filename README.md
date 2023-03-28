@@ -30,7 +30,7 @@ cd -
 ### Set-up the ref/ directory
 mkdir ref
 cd ref
-ln -s ../genomes/X._campestris_pv._campestris_ATCC_33913_T.fasta .
+ln -s ../genomes/X._campestris_pv._campestris_ATCC_33913_T_PT.fasta .
 cd -
 
 ### Set-up the workdir/ directory
