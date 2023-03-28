@@ -47,7 +47,7 @@ cd -
 
 screen
 conda activate phame_env
-cp phylogenomics-Xanthomonas-1/phame.fasttree.ctl .
+cp phylogenomics-Xanthomonas-1/phame.ctl .
 phame ./phame.ctl
 
 ```
