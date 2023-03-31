@@ -61,7 +61,7 @@ GCA_905142475.1_LMG_31884_genomic.fna X. hydrangea LMG 31884 T
 GCA_020783725.1_ASM2078372v1_genomic.fna X. campestris pv. nigromaculans	1935 PT 
 GCA_021353095.1_ASM2135309v1_genomic.fna Xanthomonas hortorum pv. pelargonii CFBP 2533 PT
 
-### 6
+### Slc 6
 GCA_012848175.1 Xanthomonas campestris pv. badrii NEB122 PT
 
 ### PRJNA865934
