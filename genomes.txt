@@ -39,7 +39,7 @@ GCA_020783795.1_ASM2078379v1_genomic.fna  X. sp. 	1067	Slc3
 GCA_020783765.1_ASM2078376v1_genomic.fna X. campestris pv. parthenii	3888 Slc4 PT
 GCA_020783715.1_ASM2078371v1_genomic.fna X. campestris pv. phormiicola	2983 Slc6 PT
 GCA_020783655.1_ASM2078365v1_genomic.fna X. melonis	3434
-GCA_020783755.1_ASM2078375v1_genomic.fna X. campestris pv. cannae	4345
+GCA_020783755.1_ASM2078375v1_genomic.fna X. campestris pv. cannae	4345 PT
 GCA_022669045.1_ASM2266904v1_genomic.fna        X. indica PPL560 T
 GCA_017163705.1_ASM1716370v1_genomic.fna        X. bonasiae FX4 T
 GCA_014836395.1_ASM1483639v1_genomic.fna        X. surreyensis Sa3BUA13 T
@@ -60,3 +60,15 @@ GCA_003064105.1_ASM306410v1_genomic.fna X. hortorum pv. hederae  NCPPB 939 T PT
 GCA_905142475.1_LMG_31884_genomic.fna X. hydrangea LMG 31884 T 
 GCA_020783725.1_ASM2078372v1_genomic.fna X. campestris pv. nigromaculans	1935 PT 
 GCA_021353095.1_ASM2135309v1_genomic.fna Xanthomonas hortorum pv. pelargonii CFBP 2533 PT
+
+### 6
+GCA_012848175.1 Xanthomonas campestris pv. badrii NEB122 PT
+
+### PRJNA865934
+GCA_025666215.1	Xanthomonas campestris pv. phormiicola	CFBP 8444	
+GCA_025666195.1 Xanthomonas sp. CFBP 8443	
+GCA_025666235.1	Xanthomonas sp. CFBP 8445
+
+### Other species
+GCA_001043115.1 Xanthomonas sp. NCPPB 1128
+
