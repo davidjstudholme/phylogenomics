@@ -29,6 +29,6 @@ close GENOMES_LIST;
 foreach my $filename (keys %genomes_list) {
     my $genome = $genomes_list{$filename};
     my $cmd = "ln -s $filename \"$genome.contig\"  && ln -s $filename \"$genome.fasta\"";
-    warn "$cmd\n";
+    #warn "$cmd\n";
     system($cmd);
 }
