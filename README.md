@@ -71,6 +71,7 @@ cd -
 **Shakya, M., Ahmed, S.A., Davenport, K.W. et al.** (2020). Standardized phylogenetic and molecular evolutionary
 analysis applied to species across the microbial tree of life. _Sci Rep_ 10, 1723.https://doi.org/10.1038/s41598-020-58356-1
 
+This assumes that you have already created a Conda envirinment called _phame_env_ and installed PhaME into it.
 This step can take a long time, so it is recommended to run it inside a _screen_ session.
 ```
 screen
@@ -80,6 +81,7 @@ phame ./phame.ctl
 ```
 
 ### Calculate average nucleotide identity using fastANI
+This assumes that you have already created a Conda envirinment called _fastani_env_ and installed fastANI into it.
 This step can take a long time, so it is recommended to run it inside a _screen_ session.
 ```
 screen
