@@ -83,11 +83,16 @@ phame ./phame.ctl
 ### Calculate average nucleotide identity using fastANI
 This assumes that you have already created a Conda envirinment called _fastani_env_ and installed fastANI into it.
 This step can take a long time, so it is recommended to run it inside a _screen_ session.
+Input files are required, which list the genomes to be included in the ANI calculations:
+- [query_list.txt](./ANI/query_list.txt)
+- [ref_list.txt](./ANI/ref_list.txt)
 ```
 screen
 conda activate fastani_env
 fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-all.fastANI.out -t 6 --visualize --matrix
 ```
-
+This generates these output files:
+- [all-versus-all.fastANI.out](./ANI/all-versus-all.fastANI.out)
+- [all-versus-all.fastANI.out.matrix](./ANI/all-versus-all.fastANI.out.matrix)
 
 
