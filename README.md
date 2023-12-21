@@ -1,4 +1,4 @@
-# Draft genome sequences for ten strains of Xanthomonas species that have phylogenomic importance
+# Draft genome sequences for ten strains of _Xanthomonas_ species that have phylogenomic importance
 
 This repository contains supporting files for the phylogenetic tree presented in this paper: 
 **Harrison, J., Hussain, R. M. F., Greer, S. F., Ntoukakis, V., Aspin, A., Vicente, J. G., Grant, M., & Studholme, D. J. (2023)**. Draft genome sequences for ten strains of Xanthomonas species that have phylogenomic importance. _Access Microbiology_, **5**, acmi000532.v3. https://doi.org/10.1099/acmi.0.000532.v3.
