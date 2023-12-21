@@ -31,6 +31,7 @@ cd genomes
 ```
 
 ### Download genome sequences into the genomes/ directory
+The list of genomes to be downloaded by the _datasets_ tool is specified in this file: [xanthomonas_assm_accs.txt](./xanthomonas_assm_accs.txt).
 ```
 ln -s ../phylogenomics-Xanthomonas-1/xanthomonas_assm_accs.txt .
 ln -s ../datasets .
@@ -42,6 +43,9 @@ ls *.fna
 ```
 
 ### Rename the genome sequence files with names of the bacterial strains
+This step uses a Perl script [rename_files.pl](./rename_files.pl) to generate symbolic links to each genome,
+with more informative names that can be used for input into PhaME. The genomes and their informative names are specified in
+file [genomes.txt](./genomes.txt).
 ``
 perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomonas-1/genomes.txt
 ```
