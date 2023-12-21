@@ -1,23 +1,37 @@
 # phylogenomics-Xanthomonas-1
 
+This repository contains supporting files for the phylogenetic tree presented in this paper: 
+**Harrison, J., Hussain, R. M. F., Greer, S. F., Ntoukakis, V., Aspin, A., Vicente, J. G., Grant, M., & Studholme, D. J. (2023)**. Draft genome sequences for ten strains of Xanthomonas species that have phylogenomic importance. _Access Microbiology_, **5**, acmi000532.v3. https://doi.org/10.1099/acmi.0.000532.v3.
 
-This repository contains supporting files for the phylogenetic tree presented in this preprint: https://doi.org/10.1099/acmi.0.000532.v1.
-The tree is also available for view, download and editing at https://itol.embl.de/tree/14417314677481871680274619.
+Central to that paper is a phylogenomic tree presented in Figure 1. Here we present the methods used to generate that tree and other analyses in the manuscript.
 
-(Previous version of tree: https://itol.embl.de/tree/14417323151194831652118997)
+- The phylogenomic tree is  available for view, download and editing at IToL here: https://itol.embl.de/tree/14417314677481871680274619.
+- An earlier bversion of the tree, mentined in the preprint is available here: https://itol.embl.de/tree/14417323151194831652118997.
 
-```
+
 ### Get this repo
+```
 git clone https://github.com/davidjstudholme/phylogenomics-Xanthomonas-1.git
+```
 
-### Download NCBI Datasets command line tools
+### Download _datasets_ from the NCBI's command line tools
+```
 curl -o datasets 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/v1/linux-amd64/datasets'
-chmod u+x datasets 
+chmod u+x datasets
+```
 
-### Create genomes directory and download genome assemblies 
+### Create genomes/ directory and download genome assemblies 
+```
 mkdir genomes
-cd genomes
+```
 
+### Enter the genomes/ directory
+```
+cd genomes
+```
+
+### Download genome sequences into the genomes/ directory
+```
 ln -s ../phylogenomics-Xanthomonas-1/xanthomonas_assm_accs.txt .
 ln -s ../datasets .
 ./datasets download genome accession --inputfile xanthomonas_assm_accs.txt  --exclude-gff3 --exclude-protein --exclude-rna --exclude-genomic-cds --filename xanthomonas_genome_assemblies.zip
@@ -25,9 +39,16 @@ ln -s ../datasets .
 unzip xanthomonas_genome_assemblies.zip
 ln -s ncbi_dataset/data/GCA_*/GCA_*.fna .
 ls *.fna
-perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomonas-1/genomes.txt
+```
 
+### Rename the genome sequence files with names of the bacterial strains
+``
+perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomonas-1/genomes.txt
+```
+
+### Exit the genomes/ direcory
 cd -
+```
 
 ### Set-up the ref/ directory
 mkdir ref
