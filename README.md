@@ -47,39 +47,44 @@ perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomona
 ```
 
 ### Exit the genomes/ direcory
+``
 cd -
 ```
 
 ### Set-up the ref/ directory
+```
 mkdir ref
 cd ref
 ln -s ../genomes/X._campestris_pv._campestris_ATCC_33913_T_PT.fasta .
 cd -
+```
 
 ### Set-up the workdir/ directory
+```
 mkdir workdir
 cd workdir
 ln -s ../genomes/*.contig .
 cd -
+```
 
 ### Run PhaME
-### Shakya, M., Ahmed, S.A., Davenport, K.W. et al. 
-### Standardized phylogenetic and molecular evolutionary analysis applied to species across the microbial tree of life. 
-### Sci Rep 10, 1723 (2020). 
-### https://doi.org/10.1038/s41598-020-58356-1
+**Shakya, M., Ahmed, S.A., Davenport, K.W. et al.** (2020). Standardized phylogenetic and molecular evolutionary
+analysis applied to species across the microbial tree of life. _Sci Rep_ 10, 1723.https://doi.org/10.1038/s41598-020-58356-1
 
+This step can take a long time, so it is recommended to run it inside a _screen_ session.
+```
 screen
 conda activate phame_env
 cp phylogenomics-Xanthomonas-1/phame.ctl .
 phame ./phame.ctl
+```
 
-
+### Calculate average nucleotide identity using fastANI
+This step can take a long time, so it is recommended to run it inside a _screen_ session.
+```
 screen
 conda activate fastani_env
 fastANI --ql query_list.txt --rl ref_list.txt -o all-versus-all.fastANI.out -t 6 --visualize --matrix
-
-
-
 ```
 
 
