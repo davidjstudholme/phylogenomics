@@ -1,0 +1,11 @@
+Name	X_campestris_pv_passiflorae_NCPPB_2346_PT	X_citri_pv_citri_LMG_9322_T_PT	X_euvesicatoria_pv_euvesicatoria_LMG_27970_T_PT	X_phaseoli_pv_manihotis_LMG_784_PT	X_phaseoli_pv_syngonii_LMG_9055_PT	X_phaseoli_pv_phaseoli_NCPPB_3035_PT	X_phaseoli_pv_dieffenbachiae_NCPPB_1833_PT	X_axonopodis_pv_axonopodis_LMG_982_T	X_oryzae_pv_oryzae_ICMP3125_T	X_campestris_pv_campestris_ATCC_33913_T_PT
+X_campestris_pv_passiflorae_NCPPB_2346_PT	100.00	93.70	94.28	98.47	97.42	98.48	97.85	93.66	90.52	87.45
+X_citri_pv_citri_LMG_9322_T_PT	93.70	100.00	94.38	93.65	93.58	93.85	93.68	93.44	90.82	87.42
+X_euvesicatoria_pv_euvesicatoria_LMG_27970_T_PT	94.28	94.38	100.00	94.26	94.29	94.31	94.23	93.46	91.01	87.75
+X_phaseoli_pv_manihotis_LMG_784_PT	98.47	93.65	94.26	100.00	97.43	98.21	97.84	93.65	90.50	87.45
+X_phaseoli_pv_syngonii_LMG_9055_PT	97.42	93.58	94.29	97.43	100.00	97.21	97.43	93.57	90.44	87.34
+X_phaseoli_pv_phaseoli_NCPPB_3035_PT	98.48	93.85	94.31	98.21	97.21	100.00	97.61	93.65	90.54	87.54
+X_phaseoli_pv_dieffenbachiae_NCPPB_1833_PT	97.85	93.68	94.23	97.84	97.43	97.61	100.00	93.65	90.49	87.43
+X_axonopodis_pv_axonopodis_LMG_982_T	93.66	93.44	93.46	93.65	93.57	93.65	93.65	100.00	90.52	87.44
+X_oryzae_pv_oryzae_ICMP3125_T	90.52	90.82	91.01	90.50	90.44	90.54	90.49	90.52	100.00	87.29
+X_campestris_pv_campestris_ATCC_33913_T_PT	87.45	87.42	87.75	87.45	87.34	87.54	87.43	87.44	87.29	100.00
