@@ -46,12 +46,12 @@ ls *.fna
 This step uses a Perl script [rename_files.pl](./rename_files.pl) to generate symbolic links to each genome,
 with more informative names that can be used for input into PhaME. The genomes and their informative names are specified in
 file [genomes.txt](./genomes.txt).
-``
+```
 perl ../phylogenomics-Xanthomonas-1/rename_files.pl  ../phylogenomics-Xanthomonas-1/genomes.txt
 ```
 
 ### Exit the genomes/ direcory
-``
+```
 cd -
 ```
 
