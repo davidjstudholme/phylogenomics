@@ -6,7 +6,7 @@ This repository contains supporting files for the phylogenetic tree presented in
 Central to that paper is a phylogenomic tree presented in Figure 1. Here we present the methods used to generate that tree and other analyses in the manuscript.
 
 - The phylogenomic tree is  available for view, download and editing at IToL here: https://itol.embl.de/tree/14417314677481871680274619.
-- An earlier bversion of the tree, mentined in the preprint is available here: https://itol.embl.de/tree/14417323151194831652118997.
+- An earlier version of the tree, mentined in the preprint is available here: https://itol.embl.de/tree/14417323151194831652118997.
 
 
 ### Get this repo
